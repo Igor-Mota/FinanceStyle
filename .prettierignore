@@ -1,0 +1,10 @@
+/node_modules
+/.expo
+/.expo-shared
+/assets
+.gitignore
+app.json
+babel.config.js
+desktop.ini
+package.json
+yarn.lock

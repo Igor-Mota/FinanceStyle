@@ -10,6 +10,10 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "sdkVersion": "40.0.0",
+    "androidNavigationBar": {
+      "visible": "immersive"
+    },
     "updates": {
       "fallbackToCacheTimeout": 0
     },
@@ -23,7 +27,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "fincancestyle.com.br"
     },
     "web": {
       "favicon": "./assets/favicon.png"
